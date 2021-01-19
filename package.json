@@ -3,7 +3,7 @@
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/karimsahebettabaa/react-gh-pages",
+  "homepage": "https://karimsahebettabaa.github.io/react-gh-pages",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
